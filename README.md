@@ -1,5 +1,4 @@
-# llama-cpp-python cuBLAS wheels
-Wheels for [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) compiled with cuBLAS support.
+
 
 Requirements:
 - Windows x64, Linux x64, or MacOS 11.0+
